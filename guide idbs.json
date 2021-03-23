@@ -1,0 +1,29 @@
+{
+  "pc": "com.kalonghideung.guideidbstruck",
+  "kang_zayvius": [      
+    {
+      "id": "1",
+      "tittle": "Tentang IDBS Truck",
+      "link_html": "https://raw.githubusercontent.com/myghithub/Guide_idbs/main/TENTANG.html",
+      "images": "https://i.ytimg.com/vi/1ExWCXZIFL4/maxresdefault.jpg"
+     },
+     {
+      "id": "2",
+      "tittle": "Pasang Livery",
+      "link_html": "https://raw.githubusercontent.com/myghithub/Guide_idbs/main/DOWNLOAD%20SKIN.html",
+      "images": "https://image.winudf.com/v2/image/dW0ubXUuc2lieWFuZS5pZGJzdHJ1Y2ttdWF0YW5la3NwZWRpc2lzdW1hdHJhZ3VpZGVfc2NyZWVuXzBfMTUxNTcyNDc0Ml8wNjg/screen-0.jpg?fakeurl=1&type=.jpg"
+     },
+    {
+      "id": "3",
+      "tittle": "Masuk Ke Game",
+      "link_html": "https://raw.githubusercontent.com/myghithub/Guide_idbs/main/MASUK%20K%20GAME.html",
+      "images": "https://image.winudf.com/v2/image/dW0ubXUuc2lieWFuZS5pZGJzdHJ1Y2ttdWF0YW5la3NwZWRpc2lzdW1hdHJhZ3VpZGVfc2NyZWVuXzBfMTUxNTcyNDc0Ml8wNjg/screen-0.jpg?fakeurl=1&type=.jpg"
+     },
+    {
+      "id": "4",
+      "tittle": "Pilih Livery",
+      "link_html": "https://raw.githubusercontent.com/myghithub/Guide_idbs/main/PILIH%20LIVERY.html",
+      "images": "https://image.winudf.com/v2/image1/Y29tLmlkYnNzdHVkaW8uaW5kb25lc2lhdHJ1Y2tzaW11bGF0b3Jfc2NyZWVuXzFfMTYwNzQ5MTE1MV8wNzQ/screen-1.jpg?fakeurl=1&type=.jpg"
+     }
+  ]
+}
